@@ -2,7 +2,7 @@
 ### CSC4111 Software Engineering Project
 
 
-Android Calendar Application for creating campus events.  Features User account registration, event creation for Campus Event Administrators, ability to RSVP for events and view them on a calendar
+Android Calendar Application for creating campus events.  Features User account registration, event creation for Campus Event Administrators, ability to RSVP for events and view saved events on a calendar
 
 Technology Stack
 * Android Studio
