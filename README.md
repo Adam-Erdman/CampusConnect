@@ -4,7 +4,7 @@
 
 #Android Calendar Application for creating campus events
 
-###Technology Stack
+##Technology Stack
 #Android Studio
 #Java
 #Firebase
